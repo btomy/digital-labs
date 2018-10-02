@@ -1,0 +1,18 @@
+{
+    "digitalLabs" : [
+        {
+            "id" : "casebook",
+            "title": "Casebook",
+            "desc": "Try out Casebook, our new system for recording the support we give to clients",
+            "link": "https://webworker.casebook.demo.devops.citizensadvice.org.uk/",
+            "linkTxt" : "Try out Casebook"
+        },
+        {
+            "id" : "workplace",
+            "title": "Facebook Workplace",
+            "desc": "Connect with people from across the organisation and share knowledge on Citizens Advice’s private Workplace",
+            "link": "https://citizensadvice.facebook.com",
+            "linkTxt" : "Try out Facebook Workplace"
+        }
+    ]
+}
